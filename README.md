@@ -23,15 +23,38 @@
 ---
 
 ## 📂 Projects
-- [Baroque MERN E-commerce Website](https://github.com/eman-projectspace/Baroque)
-- [Portfolio Website](https://react-portfolio-git-main-eman-projectspaces-projects.vercel.app/)
-- [YouTube Clone](https://github.com/eman-projectspace/YouTube-Clone)
-- [UltraEdit Clone](https://ultra-edit-clone-sage.vercel.app/)
-- [J. Website](https://j-website.vercel.app/)
-- [shop-from-home](https://shop-from-home.vercel.app/)
-- [shoe-landing-page](https://shoe-landing-page-six.vercel.app/)
+
+- **Baroque MERN E-commerce Website**  
+  [🔗 Live Demo](https://baroque-mern.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/Baroque-mern)
+
+- **Portfolio Website**  
+  [🔗 Live Demo](https://react-portfolio-git-main-eman-projectspaces-projects.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/Portfolio)
+
+- **YouTube Clone**  
+  [💻 GitHub Code](https://github.com/eman-projectspace/YouTube-Clone)
+
+- **UltraEdit Clone**  
+  [🔗 Live Demo](https://ultra-edit-clone-sage.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/UltraEdit-Clone)
+
+- **J. Website**  
+  [🔗 Live Demo](https://j-website.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/J-Website)
+
+- **Shop from Home (React Store)**  
+  [🔗 Live Demo](https://shop-from-home.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/shop-from-home)
+
+- **Shoe Landing Page**  
+  [🔗 Live Demo](https://shoe-landing-page-six.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/shoe-landing-page)
+
+--- - **Baroque Html Css Js Website**  
+  [🔗 Live Demo](https://baroque-mern.vercel.app/) | [💻 GitHub Code](https://baroque-topaz.vercel.app/)
   
----
+--- - **Rock Paper Scissors**  
+  [🔗 Live Demo](https://rock-papper-scissor-phi.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/Rock-papper-scissor)
+  
+--- - **Invoice Slip**  
+  [🔗 Live Demo](https://invoice-slip.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/Invoice-Slip)
+
+  
 
 ## 📫 Connect with Me
 - 📧 Email: emanwaheed.dev@gmail.com  
@@ -39,6 +62,6 @@
 - 🖥 GitHub: [github.com/eman-projectspace](https://github.com/eman-projectspace)  
 
 ---
-⭐️ *“Transforming ideas into modern web solutions.”*
+⭐️ *“Every job is a self portrait of the person who did it . Autograph your work with excellence”*
 
 
