@@ -6,9 +6,11 @@
 
 ## 🚀 About Me
 - 🔭 I have worked on **Baroque (E-commerce MERN Project)**
-- 🌱 Learning **Backend Development (Node.js, Express, MongoDB, Laravel)**
-- 💡 Passionate about creating **modern, responsive websites**
-- 🎯 Goal: Become a **Full-Stack Web Developer**
+- 💻 I am a **Full-Stack Web Developer** skilled in both frontend and backend
+- 🌱 Currently enhancing my expertise in **Node.js, Express, MongoDB, and Laravel**
+- 💡 Passionate about creating **modern, responsive, and user-friendly websites**
+- 🎯 Goal: Keep growing as a developer and contribute to impactful projects
+
 
 ---
 
@@ -28,7 +30,7 @@
 - [J. Website](https://j-website.vercel.app/)
 - [shop-from-home](https://shop-from-home.vercel.app/)
 - [shoe-landing-page](https://shoe-landing-page-six.vercel.app/)
-- 
+  
 ---
 
 ## 📫 Connect with Me
