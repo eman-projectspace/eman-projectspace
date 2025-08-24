@@ -31,7 +31,7 @@
   [🔗 Live Demo](https://react-portfolio-git-main-eman-projectspaces-projects.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/Portfolio)
 
 - **YouTube Clone**  
-  [💻 GitHub Code](https://github.com/eman-projectspace/YouTube-Clone)
+  [🔗 Live Demo](https://youtube-clone-blue-iota.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/youtube-clone)
 
 - **UltraEdit Clone**  
   [🔗 Live Demo](https://ultra-edit-clone-sage.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/UltraEdit-Clone)
@@ -45,13 +45,13 @@
 - **Shoe Landing Page**  
   [🔗 Live Demo](https://shoe-landing-page-six.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/shoe-landing-page)
 
---- - **Baroque Html Css Js Website**  
-  [🔗 Live Demo](https://baroque-mern.vercel.app/) | [💻 GitHub Code](https://baroque-topaz.vercel.app/)
+- **Baroque Html, Css & Js Website**  
+  [🔗 Live Demo](https://github.com/eman-projectspace/BAROQUE) | [💻 GitHub Code](https://baroque-topaz.vercel.app/)
   
---- - **Rock Paper Scissors**  
+- **Rock Paper Scissors Game**  
   [🔗 Live Demo](https://rock-papper-scissor-phi.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/Rock-papper-scissor)
   
---- - **Invoice Slip**  
+- **Invoice Slip**  
   [🔗 Live Demo](https://invoice-slip.vercel.app/) | [💻 GitHub Code](https://github.com/eman-projectspace/Invoice-Slip)
 
   
